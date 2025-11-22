@@ -1,23 +1,21 @@
 SOCOU_U - Système de Gestion Coopérative
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-📋 Description
+
+Description
 SOCOU_U (Société Coopérative UMUSHINGE W'UBUZIMA) est une plateforme web de gestion coopérative dédiée au développement agropastoral et social au Burundi. Cette application permet de gérer efficacement les membres, les activités, les cotisations et les projets de la coopérative.
+
 Fonctionnalités principales
 
-✅ Gestion des membres et adhésions
-💰 Suivi des cotisations et contributions
-📊 Tableau de bord avec statistiques en temps réel
-📁 Gestion documentaire
-🔐 Système d'authentification sécurisé (utilisateurs, administrateurs)
-📝 Historique des activités (logs)
-🖼️ Upload de fichiers (images, documents)
-📄 Génération de rapports
+Gestion des membres et adhésions
+Suivi des cotisations et contributions
+Tableau de bord avec statistiques en temps réel
+Gestion documentaire
+Système d'authentification sécurisé (utilisateurs, administrateurs)
+Historique des activités (logs)
+Upload de fichiers (images, documents)
+Génération de rapports
 
 
-🚀 Installation
+Installation
 Prérequis
 Avant de commencer, assurez-vous d'avoir installé :
 
@@ -86,11 +84,12 @@ Démarrez Apache et MySQL depuis votre panneau de contrôle (XAMPP, WAMP, etc.)
 Ouvrez votre navigateur et accédez à : http://localhost/socou_u
 
 
-👤 Connexion par défaut
+Connexion par défaut
+
 Une fois l'installation terminée, connectez-vous avec les identifiants par défaut :
 Administrateur :
 
 Nom d'utilisateur : kelly_mugishawimana1
 Mot de passe : 67444025
 
-⚠️ Important : Changez immédiatement le mot de passe après la première connexion !
+Important : Changez immédiatement le mot de passe après la première connexion !
